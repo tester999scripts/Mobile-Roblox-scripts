@@ -11,20 +11,4 @@ $${\color{red} --Copyright \space of \space the \space content©. \space rights 
 
 --info--
 
-game: https://www.roblox.com/games/10149471313/Zombie-Survival-Garrys-Mod-Old
-
---The script was tested on JJsploit Injector, Xeno Injector, Fluxus Injector, Zorara Injector, Delta Injector
-
-
---PC VERSION--
-
-terminal v0.8 pc version
-
-link - https://vexfile.com/download/mRaM1YHV2v
-
-
---MOBILE VERSION--
-
-buttonpad v0.1 mobile version
-
-link - https://vexfile.com/download/Szd5WVo77o
+--The scripts was tested on Fluxus Injector, Delta Injector
